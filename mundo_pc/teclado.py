@@ -15,6 +15,5 @@ class Teclado(DispositivosEntrada):
             f"Tipo: {self._tipo}"
         )
         
-t1 = Teclado("Gamer","Razer")
-print(t1)
+
     

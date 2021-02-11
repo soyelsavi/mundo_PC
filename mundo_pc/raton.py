@@ -15,5 +15,5 @@ class Raton(DispositivosEntrada):
         return (
             f"Id: {self.__id},  "
             f"Marca: {self._marca}"
-            f"Tipo: {self._tipo}"
+            f" Tipo: {self._tipo}"
         )

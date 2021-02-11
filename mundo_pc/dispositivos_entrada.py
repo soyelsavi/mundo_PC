@@ -14,6 +14,6 @@ class DispositivosEntrada:
         self._marca = marca 
         
     def __str__(self):
-        mensaje ="Tipo: "+ self.tipo + ", Marca: "+ self._marca
-        
+        mensaje ="Tipo: "+ self._tipo + ", Marca: "+ self._marca
+        return mensaje
     

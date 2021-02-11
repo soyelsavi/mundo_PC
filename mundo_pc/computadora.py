@@ -39,8 +39,4 @@ class Computadora:
         )
         
 
-m1 = Monitor("razer", 29)
-t1 = Teclado("genius", "USb")
-r1 = Raton("usb", "genius")
-c1 = Computadora("Razer",m1,t1,r1)
-print(c1)
+
